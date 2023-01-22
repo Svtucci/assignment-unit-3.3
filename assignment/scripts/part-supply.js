@@ -96,3 +96,4 @@ while (totalParts >= 7) {
 console.log(totalBox, totalParts)
 
 // Thought about how to divide 572 by 7 and log the remainder. Then how to add a box for every time the division process worked, and show the leftovers 
+// To be honest I did not think this code would work when I ran it. 
